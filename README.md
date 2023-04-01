@@ -1,3 +1,4 @@
+Video link to this project: https://www.youtube.com/watch?v=vVE1OXA576k
 # GroceryList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.

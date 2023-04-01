@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
     ]
 })
 export class GroceryComponent {
-    task?: string;
+    task: string;
     tasks = [];
 
     onClick(){
